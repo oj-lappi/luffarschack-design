@@ -44,8 +44,8 @@
         `[5] x 5` 
         `[3] x 3`
   - hur många symboler i rad som behövs för att vinna ( input-box, med +/- knappar)
-   - min 3
-   - max sidlängd
+    - min 3
+    - max sidlängd
  
   - När spelaren konfigurerat spelet färdig, trycker spelaren på fortsätt-nappen
 
