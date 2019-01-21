@@ -69,10 +69,13 @@ Projektet kommer att vara en prototyp. Om möjligt försöker vi få så mycket 
 ### Projektmedlemmar
 
 Oskar Lappi
+
 Martin Asplund
+
 Magnus Thölix
 
 ### Risker
 
 Otydliga krav
+
 Mycket grafiskt arbete
