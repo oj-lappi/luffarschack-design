@@ -11,20 +11,20 @@
 ## Skärmar: överblick
 
  - En landing-page var man får konfigurera hurdant spel man vill spela
-  - konfigurationselement i en lista: en rad - en konfiguration
-  - fortsätt-knapp
+   - konfigurationselement i en lista: en rad - en konfiguration
+   - fortsätt-knapp
  - Spelbrädan
-  - motståndar-avatar i övre höger hörn: robot eller mänska
-  - spelar-avatar i nedre vänster hörn
-  - en spelbräda 
-  - ifall spelaren väntar på motståndaren, en länk som kan delas
+   - motståndar-avatar i övre höger hörn: robot eller mänska
+   - spelar-avatar i nedre vänster hörn
+   - en spelbräda 
+   - ifall spelaren väntar på motståndaren, en länk som kan delas
 
   
 ## Funktionella krav
  
 ### Konfigurationsskärmen
 
- - Spelaren får själv välja en spelkonfiguration med dessa variabler:
+ Spelaren får själv välja en spelkonfiguration med dessa variabler:
   - vilken symbol spelaren använder ( X börjar alltid ) 
     - X
     - O
@@ -47,7 +47,7 @@
     - min 3
     - max sidlängd
  
-  - När spelaren konfigurerat spelet färdig, trycker spelaren på fortsätt-nappen
+  När spelaren konfigurerat spelet färdig, trycker spelaren på fortsätt-nappen
 
 ### Spelskärmen
 
