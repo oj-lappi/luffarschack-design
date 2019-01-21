@@ -66,7 +66,13 @@
  
 Projektet kommer att vara en prototyp. Om möjligt försöker vi få så mycket av spelet implementerat som möjligt, men fokus är på designen. Vi gör åtminstone nägra skärmar.
 
-Projektmedlemmar: Oskar Lappi, Martin Asplund, Magnus Thölix
+### Projektmedlemmar
 
+Oskar Lappi
+Martin Asplund
+Magnus Thölix
 
+### Risker
 
+Otydliga krav
+Mycket grafiskt arbete
