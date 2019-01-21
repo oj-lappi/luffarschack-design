@@ -1,1 +1,1 @@
-# luffarschack-design
+# Luffarschack som webbapplikation
