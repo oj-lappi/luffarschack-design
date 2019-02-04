@@ -61,7 +61,10 @@
    - t.ex. en pulserande animation som ändrar storlek och färg av symbolerna i den vinnande raden
   - faller "konfetti" ner från toppen av skärmen
   - visas en knapp som låter spelaren gå tillbaka till konfigurationsskärmen
-  
+ 
+### Allmänt
+
+ - En nightmode/daymode knapp, som byter från ljus till mörk bakgrund och vv.
 
 ## Projektet
  
