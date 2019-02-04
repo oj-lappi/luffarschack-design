@@ -25,6 +25,7 @@
 ### Konfigurationsskärmen
 
  Spelaren får själv välja en spelkonfiguration med dessa variabler:
+
   - vilken symbol spelaren använder ( X börjar alltid ) 
     - X
     - O
