@@ -39,7 +39,7 @@ Kalletretti upptäckte först kompetitivt luffarschack när hans medarbetare utm
 det har han haft svårt att slita sig från spelet.
 
 När han kommer hem efter en lång arbetsdag sätter han på kaffekokaren. Resten av dagen spenderar han på att spela 
-luffarschack eller gräva gropar när Lisatretti börjar klaga på hans spelande.
+luffarschack på sin dedikerade luffarschackbattlestation eller gräva gropar när Lisatretti börjar klaga på hans spelande.
 
 
 ## Scenarier:
