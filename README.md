@@ -1,5 +1,7 @@
 # Luffarschack på webben
 
+Prototyp: [länk](https://app.moqups.com/Kamahath/0vEXTG3OOw/view/page/ad64222d5)
+
 ## Mål 
 
  - En webbapplikation med enkelt gränssnitt
